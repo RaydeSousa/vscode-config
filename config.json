@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "OM Theme (No Italic)",
+    "workbench.colorTheme": "Min Dark",
     "editor.fontSize": 18,
     "editor.fontFamily": "JetBrains Mono",
     "symbols.hidesExplorerArrows": false,
@@ -20,7 +20,9 @@
     "workbench.statusBar.visible": false,
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
-
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
     "apc.header": {
         "height": 36
     },
