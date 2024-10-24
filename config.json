@@ -2,37 +2,20 @@
     "workbench.colorTheme": "Min Dark",
     "editor.fontSize": 18,
     "editor.fontFamily": "JetBrains Mono",
-    "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "vscode-icons",
     "editor.lineHeight": 1.6,
     "editor.rulers": [80, 120],
-    "workbench.startupEditor": "newUntitledFile",
     "editor.renderLineHighlight": "gutter",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": true,
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "default",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
     "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "explicit"
-    },
-    "apc.header": {
-        "height": 36
-    },
-    "apc.listRow": {
-        "height": 24
-    },
-    "apc.font.family": "",
-    "apc.stylesheet": {
-        ".title-label > h2": "",
-        ".editor-actions": "display: none",
-        ".pane-body": "padding: 6px"
+    "workbench.layoutControl.enabled": false
     }
-}
