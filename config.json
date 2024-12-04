@@ -2,20 +2,26 @@
     "workbench.colorTheme": "Min Dark",
     "editor.fontSize": 18,
     "editor.fontFamily": "JetBrains Mono",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.lineHeight": 1.6,
     "editor.rulers": [80, 120],
     "editor.renderLineHighlight": "gutter",
-    "editor.fontLigatures": true,
+    "editor.fontLigatures": false,
     "workbench.editor.labelFormat": "short",
-    "explorer.compactFolders": true,
+    "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "default",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false
+    "workbench.layoutControl.enabled": false,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "settingsSync.ignoredSettings": [
+        "workbench.colorCustomizations",
+        "editor.tokenColorCustomizations"
+    ],
+    "terminal.integrated.fontSize": 17
     }
