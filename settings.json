@@ -1,27 +1,20 @@
 {
+    "workbench.colorTheme": "Dracula Theme",
     "editor.fontSize": 18,
-    "editor.fontWeight":"600",
     "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "bold",
     "editor.lineHeight": 1.3,
     "editor.rulers": [80, 120],
+    "editor.fontLigatures": true,
     "editor.renderLineHighlight": "gutter",
-    "editor.fontLigatures": false,
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
-    "editor.semanticHighlighting.enabled": false,
-    "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "default",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": true,
-    "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false,
     "terminal.integrated.fontFamily": "JetBrains Mono",
-    "settingsSync.ignoredSettings": [
-        "workbench.colorCustomizations",
-        "editor.tokenColorCustomizations"
-    ],
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.fontWeight": "bold",
-    }
+    "window.commandCenter": false
+}
